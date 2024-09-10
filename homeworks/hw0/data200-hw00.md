@@ -24,7 +24,7 @@ print("Hello World!")
 ```
 
     Hello World!
-
+    
 
 Now, go ahead and write python code in the chunk below that prints your favorite movie. Here is my output:
 
@@ -32,7 +32,7 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("My favorite movie is Interstellar")
 ```
 
 # Task 2
